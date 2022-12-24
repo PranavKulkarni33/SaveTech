@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Error404</string>
+
+    <string-array name="items">
+        <item>1 Month</item>
+        <item>2 Month</item>
+        <item>3 Month</item>
+        <item>6 Month</item>
+        <item>1 Year</item>
+    </string-array>
+</resources>
